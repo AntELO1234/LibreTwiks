@@ -1,2 +1,11 @@
-# LibreTwiks
-This is my LibrePCB Library where I add somthing that I need for my PCBs or just4fun
+# LibreTweaks
+
+## Description
+
+This is a [LibrePCB](https://librepcb.org) library!
+
+This is my LibrePCB library where I add something what I need or just4fun
+
+## License
+
+

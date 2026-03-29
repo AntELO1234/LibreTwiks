@@ -1,0 +1,11 @@
+(librepcb_library 284694f7-ed4f-4781-bb4e-7553236364a0
+ (name "LibreTweaks")
+ (description "Adds something that we don't have in our LibrePCB")
+ (keywords "")
+ (author "aelo")
+ (version "0.1")
+ (created 2026-03-27T19:42:15Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "")
+)
